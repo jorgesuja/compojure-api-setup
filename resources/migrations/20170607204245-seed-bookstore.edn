@@ -1,0 +1,3 @@
+{:ns compojure-api-setup.migrations.bookstore
+ :up-fn migrate-up
+ :down-fn migrate-down}

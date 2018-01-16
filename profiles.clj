@@ -1,0 +1,1 @@
+{:dev {:env {:database-url "jdbc:mysql://localhost/compojure_api_dev?user=root"}}}
